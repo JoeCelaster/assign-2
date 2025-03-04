@@ -1,0 +1,13 @@
+body{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+}
+.joe{
+  padding: 20px;
+  background-color: rgb(74, 74, 167);
+  border: 1px solid white;
+  border-radius: 20px;
+ box-shadow: 10px 10px 10px black;
+}
